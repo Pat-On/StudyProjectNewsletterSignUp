@@ -12,5 +12,13 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "request": "^2.88.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pat-On/StudyProjectNewsletterSignUp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pat-On/StudyProjectNewsletterSignUp/issues"
+  },
+  "homepage": "https://github.com/Pat-On/StudyProjectNewsletterSignUp#readme"
 }
